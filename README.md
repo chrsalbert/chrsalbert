@@ -34,6 +34,6 @@ __Publuished on:__ Heroku *
 
 ---
 
-I'll publish the code of my projects soon. But until then, I need to make sure I didn't push any sensitive data in the initial commits. Note to myself: Clean commits rom the beginning! ;-)
+I'll publish the code of my projects soon. But until then, I need to make sure I didn't push any sensitive data in the initial commits. Note to myself: Clean commits from the beginning! ;-)
 
 (*) Please be patient while loading the page. Due to the free version of Heroku, the dynos have to be started first when they are inactive for a longer time.
