@@ -28,8 +28,8 @@ __Publuished on:__ Heroku  *
 ### HiwuLab
 https://hiwulab.herokuapp.com → 
 A new version of a project from a friend, about political communication on YouTube.  
-__What I've learned:__ Building more complex components with Vue.js, first dive into MongoDB and APIs, handling a lot of data (> 800.000 records for statistics)  
-__Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, MongoDB  
+__What I've learned:__ Building more complex components with Vue.js, first dive into MongoDB, Express and Axios, handling a lot of data (> 800.000 records for statistics)  
+__Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, Express, MongoDB, Axios, Chart.js
 __Publuished on:__ Heroku *
 
 ---
