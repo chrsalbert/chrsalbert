@@ -19,8 +19,8 @@ __Publuished on:__ Vercel
 ### Mr. Prompter
 https://telepromptr.herokuapp.com → 
 Teleprompter service that you can control with a remote device, for example your smartphone.  
-__What I've learned:__ Got deeper into ES6, learned about event-based communication with Socket.io, deploying on Heroku  
-__Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, Socket.io  
+__What I've learned:__ Got deeper into ES6, learned about event-based communication with Socket.io, deploying on Heroku, using the Web Speech API  
+__Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, Socket.io, Web Speech API
 __Publuished on:__ Heroku  *
 
 ---
