@@ -1,7 +1,7 @@
 
 # Moin, hello, guten Tag!
 
-I'm Christian, a Fronend-Developer and UI-Designer hybrid based in Cologne, Germany. After I returned from my world travel in April 2020 due to the global pandemic I've created some fun projects to learn a few new things.
+I'm Christian, a Fronend-Developer and UI-Designer hybrid based in Cologne, Germany. After I returned from my world travel in March 2020 due to the global pandemic I've created some fun projects to learn a few new things.
 
 Here are some of my recent projects:
 
