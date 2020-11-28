@@ -8,7 +8,7 @@ Here are some of my recent projects:
 ---
 
 ### ON A JOURNEY
-https://world-rosy.now.sh
+https://world-rosy.now.sh → 
 A small overview and statistics about my travel route between May 2019 and April 2020.  
 __What I've learned:__ Page transitions in Nuxt.js, working with generated SVGs  
 __Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, SVG  
@@ -17,7 +17,7 @@ __Publuished on:__ Vercel
 ---
 
 ### Mr. Prompter
-https://telepromptr.herokuapp.com
+https://telepromptr.herokuapp.com → 
 Teleprompter service that you can control with a remote device, for example your smartphone.  
 __What I've learned:__ Got deeper into ES6, learned about event-based communication with Socket.io, deploying on Heroku  
 __Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, Socket.io  
@@ -26,7 +26,7 @@ __Publuished on:__ Heroku  *
 ---
 
 ### HiwuLab
-https://hiwulab.herokuapp.com
+https://hiwulab.herokuapp.com → 
 A new version of a project from a friend, about political communication on YouTube.  
 __What I've learned:__ Building more complex components with Vue.js, first dive into MongoDB and APIs, handling a lot of data (> 800.000 records for statistics)  
 __Technologies used:__ HTML, CSS, JS, Vue.js, Nuxt.js, MongoDB  
