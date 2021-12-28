@@ -1,7 +1,7 @@
 
 # Moin, hello, guten Tag!
 
-I'm Christian, Fronend Developer and UI Designer based in Cologne, Germany. See and enjoy some of my projects:
+I'm a Frontend Developer and UI Designer based in Cologne, Germany. See and enjoy some of my projects:
 
 ---
 
